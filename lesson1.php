@@ -31,7 +31,7 @@ echo "this is also a string - no variable needed";
 
 <h1>Arrays</h1>
 <?php
-$dogs = array("shetland", "golden")
+$dogs = array("shetland", "golden");
 $animals = array($dogs, "frog", "elephant", "cat", "wolf");
 /*
 key: 0
@@ -105,7 +105,7 @@ $number = 1; // base value of variable
 
 while ($number <= 10) { /*boolean value to see if number is less than or equal to 10*/
   echo $number; //echo value of variable number
-  $number==; //increment variable by 1
+  $number++; //increment variable by 1
 }
 
 ?>
